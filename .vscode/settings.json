@@ -1,0 +1,11 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "cmath": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "unordered_map": "cpp",
+        "iostream": "cpp"
+    },
+    "cmake.sourceDirectory": "E:/DSA/Questions/SearchInsertPosition35"
+}
