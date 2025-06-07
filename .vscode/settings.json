@@ -5,7 +5,10 @@
     "vector": "cpp",
     "xstring": "cpp",
     "unordered_map": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "chrono": "cpp",
+    "ranges": "cpp",
+    "variant": "cpp"
   },
   "cmake.sourceDirectory": "E:/DSA/Questions/69Sqrt"
 }
