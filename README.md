@@ -16,4 +16,5 @@ Hey there! This repo contains my personal solutions to LeetCode problems. I'm no
 
 This is my coding diary—**not perfection, but progress!**
 
-(Feel free to explore, critique, or suggest better ways!)_
+(Feel free to explore, critique, or suggest better ways!)
+Yes! it is ChatGPTied!
