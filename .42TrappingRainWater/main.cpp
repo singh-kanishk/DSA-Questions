@@ -9,7 +9,18 @@ public:
         if (height.size() <= 2)
             return 0;
 
+        int left, right, capacity = 0;
+
         for (int i = 0; i < height.size(); i++)
+        {
+            int
+                left = i;
+            right = i + 1;
+            if (height.at(left) < height.at(right))
+            {
+            }
+        }
+        return capacity;
     }
 };
 
