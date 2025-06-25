@@ -8,7 +8,15 @@
     "iostream": "cpp",
     "chrono": "cpp",
     "ranges": "cpp",
-    "variant": "cpp"
+    "variant": "cpp",
+    "array": "cpp",
+    "bitset": "cpp",
+    "string_view": "cpp",
+    "initializer_list": "cpp",
+    "span": "cpp",
+    "stacktrace": "cpp",
+    "regex": "cpp",
+    "valarray": "cpp"
   },
   "cmake.sourceDirectory": "E:/DSA/Questions/69Sqrt"
 }
