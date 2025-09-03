@@ -58,5 +58,3 @@ var searchMatrix = function (matrix, target) {
 
   return searchRow(searchColumn(matrix, target), target);
 };
-
-console.log(searchMatrix([[1], [3]], 3)); 
